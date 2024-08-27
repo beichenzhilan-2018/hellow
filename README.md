@@ -1,2 +1,2 @@
-# hellow
-hellow world.cpp
+# hello
+c++课设
